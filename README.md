@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stripe Billing](https://stripe.com/billing) – Billing engine for subscriptions, invoicing, proration, and metered billing.
 - [Customer Portal](https://stripe.com/docs/customer-management) – Hosted self-service portal for subscription management.
 - [Stripe Terminal](https://stripe.com/terminal) – SDK and hardware for in-person card payments.
+- [PlanPacer](https://planpacer.com/) – Hosted service for splitting a one-off price into scheduled instalments, using Stripe Checkout for collection.
 
 ## Subscriptions & SaaS
 
